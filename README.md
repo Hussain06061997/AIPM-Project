@@ -35,19 +35,19 @@ i) Project Management Lifecycle
 
 Work Breakdown Structure :
 
-<p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture3.jpg"></p>
+<p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture3.JPG"></p>
 <p align="center">Figure 1: Work Breakdown Structure </p>
 
-<p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture4.jpg"></p>
+<p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture4.JPG"></p>
 <p align="center">Figure 2: Work Breakdown Structure </p>
 
 
 Gantt Chart :
 
-<p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture1.jpg"></p>
+<p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture1.JPG"></p>
 <p align="center">Figure 3: Gantt Chart </p>
 
-<p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture2.jpg"></p>
+<p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture2.JPG"></p>
 <p align="center">Figure 4: Gantt Chart</p>
 
 ii) Risk Identication Chart
@@ -88,7 +88,7 @@ ii) Risk Identication Chart
 
 iii)  Responsibility Assignment Matrices (RAM): 
 
-<p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture5.jpg"></p>
+<p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture5.JPG"></p>
 <p align="center">Figure 5: Responsibility Assignment Matrices (RAM) </p>
 
 
