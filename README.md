@@ -32,11 +32,14 @@ Objectives:
 ## B. PLANNING THE PROJECT
 
 ## C. IMPLEMENTING THE PROJECT PLAN
-  ##  Deliverables:
+    Deliverables:
+      - Successfully differentiate between gender
+      - 
+      - 
 
-  ##  Tasks and Estimated Costs:
+    Tasks and Estimated Costs:
   
-  ##  Milestone Chart:
+    Milestone Chart:
 
 
 ## D. EXECUTING THE PROJECT
