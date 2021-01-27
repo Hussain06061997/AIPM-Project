@@ -41,7 +41,6 @@ ii) Risk Identication Chart
 
 
 
-
 <table>
   <tr>
     <th>Control Element</th>
@@ -155,11 +154,117 @@ iv) Project Planning Summary:
 
 
 ## C. IMPLEMENTING THE PROJECT PLAN
-  ##  Deliverables:
+    Deliverables:
+      - Successfully differentiate between gender
+      - 
+      - 
 
-  ##  Tasks and Estimated Costs:
+<html>
+<head>
+
+</head>
+<body>
+
+<h2>Tasks and Estimated Costs</h2>
+
+<table>
+  <tr>
+    <th>Task</th>
+    <th>Estimated Costs</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Hardware</td>
+    <td>RM 12 000.00 </td>
+    <td>Laptops</td>
+  </tr>
+  <tr>
+    <td>Office needs</td>
+    <td>RM 490 000.00</td>
+    <td>WIFI/supplies</td>
+  </tr>
+  <tr>
+    <td>Design</td>
+    <td>RM 6 100.00</td>
+    <td>Survey/conceptual/preliminary/ final design</td>
+  </tr>
+  <tr>
+    <td>Software</td>
+    <td>RM 20 000.00 </td>
+    <td>Database/license</td>
+  </tr>
+  <tr>
+    <td>Necessary needs</td>
+    <td>RM 30 000.00</td>
+    <td>Additional supplies </td>
+  </tr>
+  <tr>
+    <th>Total</th>
+    <th>RM 558 100.00</th>
+    <td>estimated</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
   
-  ##  Milestone Chart:
+
+<html>
+<head>
+
+</head>
+<body>
+
+<h2>Milestone Chart:</h2>
+
+<table>
+ 
+  <tr>
+    <th>Milestone</th>
+    <th>Scheduled Completion</th>
+    <th>Actual Completion</th>
+  </tr>
+  <tr>
+    <td>Analysis on problem</td>
+    <td>21st October 2020-21st October 2020</td>
+    <td>21st October 2020 </td>
+  </tr>
+  <tr>
+    <td>Getting resources/data</td>
+    <td>26th October 2020-1st November 2020</td>
+    <td>28th October 2020</td>
+  </tr>
+  <tr>
+    <td>Planning/WBS/budget management</td>
+    <td>1st November 2020-11th November 2020</td>
+    <td>10th November 2020</td>
+  </tr>
+  <tr>
+    <td>Implementation</td>
+    <td>11th November 2020-26th November 2020</td>
+    <td>28th November 2020</td>
+  </tr>
+  <tr>
+    <td>Project result/performance evaluation</td>
+    <td>26th November 2020-28th November 2020</td>
+    <td>30th November 2020</td>
+  </tr>
+  <tr>
+    <td>Report</td>
+    <td>28th November 2020-13th December 2020</td>
+    <td>3rd December 2020</td>
+  </tr>
+  <tr>
+    <td>Project submission</td>
+    <td>15th December 2020-17th December 2020</td>
+    <td>17th December 2020</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 
 
 ## D. EXECUTING THE PROJECT
