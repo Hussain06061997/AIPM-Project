@@ -38,6 +38,72 @@ Objectives:
       - 
 
     Tasks and Estimated Costs:
+    <!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Task</th>
+    <th>Estimated Costs</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Hardware</td>
+    <td>RM 12 000.00 </td>
+    <td>Laptops</td>
+  </tr>
+  <tr>
+    <td>Office needs</td>
+    <td>RM 490 000.00</td>
+    <td>WIFI/supplies</td>
+  </tr>
+  <tr>
+    <td>Design</td>
+    <td>RM 6 100.00</td>
+    <td>Survey/conceptual/preliminary/ final design</td>
+  </tr>
+  <tr>
+    <td>Software</td>
+    <td>RM 20 000.00 </td>
+    <td>Database/license</td>
+  </tr>
+  <tr>
+    <td>Necessary needs</td>
+    <td>RM 30 000.00</td>
+    <td>Additional supplies </td>
+  </tr>
+  <tr>
+    <th>Total</th>
+    <th>RM 558 100.00</th>
+    <td>estimated</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
   
     Milestone Chart:
 
