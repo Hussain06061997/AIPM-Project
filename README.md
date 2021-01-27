@@ -308,5 +308,11 @@ iv) Project Planning Summary:
 <p align="center">Figure 8: The web application (after uploading an image and received a response from the model</p>
 
 ## E. COMPLETING THE PROJECT
+<table>
+  <tr><td>Sign Off Form</td><td><a href="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/signoff.JPG"><button>View</button></a></td></tr>
+  <tr><td>Lessons Learned Report</td><td><a href="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/Lab%20Assessments/Lab%2012_2020.pdf"><button>View</button></a></td></tr>
+  <tr><td>Final Project Report</td><td><a href="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/README.md"><button>View</button></a></td></tr>
+  <tr><td>Close Contract</td><td><a href="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/Lab%20Assessments/Lab%209_2020%20AIPM.pdf"><button>View</button></a></td></tr>
+</table>
 
 ## F. PROJECT PRESENTATION
