@@ -38,7 +38,6 @@ Objectives:
       - 
 
     Tasks and Estimated Costs:
-    <!DOCTYPE html>
 <html>
 <head>
 <style>
