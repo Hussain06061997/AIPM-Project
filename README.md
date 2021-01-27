@@ -7,7 +7,7 @@ In the current state of the world a lot of emphasis has been placed on convenien
 
 Customer: Mckinsey & Company
 
-Project name: Gender Recognition Using Computer Vision
+Project name: Gender Detection Using Computer Vision
 
 
 Team Members:
