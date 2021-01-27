@@ -87,10 +87,9 @@ iv) Project Planning Summary:
       - 
       - 
 
-    Tasks and Estimated Costs:
 <html>
 <head>
-
+<h2>Tasks and Estimated Costs:</h2>
 </head>
 <body>
 
