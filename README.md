@@ -3,7 +3,7 @@ A. DEFINING THE PROJECT
  Project Summary
 Customer: [insert]
 
-Project name: [insert]
+Project name: [ddddd]
 
 Team Members:
 
