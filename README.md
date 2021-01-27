@@ -89,11 +89,11 @@ iv) Project Planning Summary:
 
 <html>
 <head>
-<h2>Tasks and Estimated Costs:</h2>
+
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>Tasks and Estimated Costs</h2>
 
 <table>
   <tr>
