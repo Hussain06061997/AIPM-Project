@@ -5,11 +5,11 @@
 ## B. PLANNING THE PROJECT
 
 ## C. IMPLEMENTING THE PROJECT PLAN
-##  Deliverables:
+  ##  Deliverables:
 
-##  Tasks and Estimated Costs:
+  ##  Tasks and Estimated Costs:
   
-##  Milestone Chart:
+  ##  Milestone Chart:
 
 
 ## D. EXECUTING THE PROJECT
