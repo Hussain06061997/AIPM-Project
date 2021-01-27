@@ -77,6 +77,46 @@ ii) Risk Identication Chart
 
 iii)  Responsibility Assignment Matrices (RAM): 
 
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+
+
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>Muhamed Hussain Bin Hithayatullah</td>
+    <td>Project Manager</td>
+
+  </tr>
+  <tr>
+    <td>Ramanan Gobalakrishnan</td>
+    <td>Financial Anayst</td>
+  </tr>
+  <tr>
+    <td>Rheshwan Raj A/L Ravichandran</td>
+    <td>Data Analyst</td>
+  </tr>
+  <tr>
+    <td>Muhammad Naim Syahmi Bin Roslan</td>
+    <td>Technical Manager</td>
+ 
+  </tr>
+  
+</table>
+
+</body>
+</html>
+
 iv) Project Planning Summary: 
 
 <!DOCTYPE html>
