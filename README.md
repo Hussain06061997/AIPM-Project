@@ -90,14 +90,7 @@ iv) Project Planning Summary:
     Tasks and Estimated Costs:
 <html>
 <head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-</style>
 </head>
 <body>
 
