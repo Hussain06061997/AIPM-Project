@@ -41,7 +41,6 @@ ii) Risk Identication Chart
 
 
 
-<h2>Risk Identication Chart</h2>
 
 <table>
   <tr>
@@ -126,7 +125,7 @@ iv) Project Planning Summary:
 </head>
 <body>
 
-<h2>Project Planning Summary</h2>
+
 
 <table>
   <tr>
