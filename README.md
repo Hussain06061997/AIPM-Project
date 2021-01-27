@@ -31,6 +31,75 @@ Objectives:
 
 ## B. PLANNING THE PROJECT
 
+i) Project Management Lifecycle
+
+Work Breakdown Structure :
+
+Gantt Chart :
+
+ii) Risk Identication Chart
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>Control Element</th>
+    <th>What is likely to go wrong?</th>
+    <th>How and when will I know?</th>
+    <th>What will I do about it?</th>
+  </tr>
+  <tr>
+    <td>Quality</td>
+    <td>Inaccurately predicting gender</td>
+    <td>After uploading the picture in our system and the result will be shown</td>
+    <td>Increasing the size of the dataset used to train the model</td>
+  </tr>
+  <tr>
+    <td>Cost</td>
+    <td>Equipment to run the system might be over expensive.</td>
+    <td>When the cost is higher than predicted at the start of the project</td>
+    <td>Either to increase the amount of the budget or change the project to be computationally cheaper</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>Will take more time to collect different type of images of both gender.</td>
+    <td>Training process will be delayed due to not collecting enough data.</td>
+    <td>Increase staff to speed up the data collection process of the images.</td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
+
+
+iii)  Responsibility Assignment Matrices (RAM): 
+
+iv) Project Planning Summary: 
+
 ## C. IMPLEMENTING THE PROJECT PLAN
     Deliverables:
       - Successfully differentiate between gender
