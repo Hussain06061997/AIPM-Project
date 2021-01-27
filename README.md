@@ -156,8 +156,8 @@ iv) Project Planning Summary:
 ## C. IMPLEMENTING THE PROJECT PLAN
     Deliverables:
       - Successfully differentiate between gender
-      - 
-      - 
+      - Image recognition model
+      - A front end website
 
 <html>
 <head>
