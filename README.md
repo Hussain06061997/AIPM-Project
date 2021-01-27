@@ -81,6 +81,42 @@ iii)  Responsibility Assignment Matrices (RAM):
 
 iv) Project Planning Summary: 
 
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+<h2>Project Planning Summary</h2>
+
+<table>
+  <tr>
+    <th>Modules/Components</th>
+    <th>Budget (RM)</th>
+    <th>Schedule</th>
+    <th>Responsibility</th>
+  </tr>
+  <tr>
+    <td>Gender Database</td>
+    <td>2,180,000.00</td>
+    <td>30 November 2020 - 1 January 2021</td>
+    <td>Collect Data, Label Data</td>
+  </tr>
+  <tr>
+    <td>Gender Detection</td>
+    <td>18,869,100.00</td>
+    <td>3 January 2021 - 30 January 2021</td>
+    <td>Train model, Test model</td>
+  </tr>
+  
+  
+</table>
+
+</body>
+</html>
+
+
 ## C. IMPLEMENTING THE PROJECT PLAN
     Deliverables:
       - Successfully differentiate between gender
