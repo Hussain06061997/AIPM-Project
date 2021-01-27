@@ -155,6 +155,78 @@ tr:nth-child(even) {
 
   
     Milestone Chart:
+    <!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+ 
+  <tr>
+    <th>Milestone</th>
+    <th>Scheduled Completion</th>
+    <th>Actual Completion</th>
+  </tr>
+  <tr>
+    <td>Analysis on problem</td>
+    <td>21st October 2020-21st October 2020</td>
+    <td>21st October 2020 </td>
+  </tr>
+  <tr>
+    <td>Getting resources/data</td>
+    <td>26th October 2020-1st November 2020</td>
+    <td>28th October 2020</td>
+  </tr>
+  <tr>
+    <td>Planning/WBS/budget management</td>
+    <td>1st November 2020-11th November 2020</td>
+    <td>10th November 2020</td>
+  </tr>
+  <tr>
+    <td>Implementation</td>
+    <td>11th November 2020-26th November 2020</td>
+    <td>28th November 2020</td>
+  </tr>
+  <tr>
+    <td>Project result/performance evaluation</td>
+    <td>26th November 2020-28th November 2020</td>
+    <td>30th November 2020</td>
+  </tr>
+  <tr>
+    <td>Report</td>
+    <td>28th November 2020-13th December 2020</td>
+    <td>3rd December 2020</td>
+  </tr>
+  <tr>
+    <td>Project submission</td>
+    <td>15th December 2020-17th December 2020</td>
+    <td>17th December 2020</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 
 
 ## D. EXECUTING THE PROJECT
