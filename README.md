@@ -272,8 +272,8 @@ iv) Project Planning Summary:
   </tr>
   <tr>
     <td>Project submission</td>
-    <td>15th December 2020-17th December 2020</td>
-    <td>17th December 2020</td>
+    <td>15th December 2020-30th January 2021</td>
+    <td>27th January 2021</td>
   </tr>
 </table>
 
