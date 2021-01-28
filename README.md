@@ -50,7 +50,7 @@ Gantt Chart :
 <p align="center"><img src="https://github.com/Hussain06061997/Gender-Detection-With-Computer-Vision/blob/master/images/Capture2.JPG"></p>
 <p align="center">Figure 4: Gantt Chart</p>
 
-ii) Risk Identication Chart
+ii) Risk Identification Chart
 
 
 
